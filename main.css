@@ -1,0 +1,78 @@
+html {
+  font-size: 1rem;
+
+}
+body {
+  background: linear-gradient(#000000, #1f1f1f);
+  font-family: 'Raleway', sans-serif;
+  color: #A2A2A2;
+}
+h1 {
+  font-weight: 800;
+  font-size: 2.75rem; /* 44px */
+}
+h3 {
+  font-weight: bold;
+  font-size: 1.75rem; /* 28px */
+  color: #FFFFFF;
+  margin-top: 1em;
+}
+a {
+  color: #F5511E;
+}
+a:hover {
+  color: #FF784F;
+}
+.container-actions a {
+  text-decoration: underline;
+  font-size: 1.375rem; /* 22px */
+  font-weight: 700;
+}
+main p {
+  font-weight: 600;
+  font-size: 1.188rem; /* 19px */
+}
+header {
+  padding: 2.5em 0;
+}
+footer {
+  text-align: center;
+  padding: 2em 1em;
+}
+section {
+  padding-bottom: 2.5em;
+}
+header, section {
+  color: white;
+}
+.col-social {
+   text-align: right;
+}
+.col-social img {
+  margin-left: 1em;
+  opacity: 0.65;
+}
+.col-social img:hover  {
+  opacity: 1;
+}
+.col-intro {
+  padding: 0 48px;
+  line-height: 1.3em;
+  font-weight: 800;
+  font-size: 1.75rem; /* 28px */
+}
+.text-orange {
+  color: #F5511E;
+}
+.text-yellow {
+  color: #FFBC00;
+}
+.text-green {
+  color: #7EBA01;
+}
+.text-blue {
+  color: #02A1E5;
+}
+.text-purple {
+  color: #8657F3;
+}
