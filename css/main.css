@@ -7,6 +7,14 @@ body {
   font-family: 'Raleway', sans-serif;
   color: #A2A2A2;
 }
+header {
+  color: white;
+  padding: 2.5em 0;
+}
+footer {
+  text-align: center;
+  padding: 2em 1em;
+}
 h1 {
   font-weight: 800;
   font-size: 2.75rem; /* 44px */
@@ -23,26 +31,17 @@ a {
 a:hover {
   color: #FF784F;
 }
+.container-hero {
+  padding-bottom: 2.5em;
+  color: white;
+}
 .container-actions a {
   font-size: 1.375rem; /* 22px */
   font-weight: 700;
 }
-main p {
+.container-actions p {
   font-weight: 600;
   font-size: 1.188rem; /* 19px */
-}
-header {
-  padding: 2.5em 0;
-}
-footer {
-  text-align: center;
-  padding: 2em 1em;
-}
-section {
-  padding-bottom: 2.5em;
-}
-header, section {
-  color: white;
 }
 .col-social {
    text-align: right;
