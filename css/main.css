@@ -42,6 +42,7 @@ a:hover {
 .container-actions p {
   font-weight: 600;
   font-size: 1.188rem; /* 19px */
+  margin-bottom: 0.5rem;
 }
 .col-social {
    text-align: right;
